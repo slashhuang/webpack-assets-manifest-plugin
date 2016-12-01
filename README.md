@@ -38,5 +38,4 @@
            ...otherPlugins]
 ```
 ## 代码发布
-> 等在业务场景下更成熟后，考虑发布npm
 > welcome pull request
