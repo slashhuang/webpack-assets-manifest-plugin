@@ -1,0 +1,32 @@
+{
+  "name": "webpack-assets-manifest-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashhuang/webpack-assets-manifest-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "manifest"
+  ],
+  "author": "slashhuang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "lodash.find": "^4.6.0",
+    "lodash.get": "^4.0",
+    "lodash.keys": "^4.0",
+    "lodash.merge": "^4.0",
+    "lodash.pick": "^4.0",
+    "mkdirp": "^0.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/slashhuang/webpack-assets-manifest-plugin/issues"
+  },
+  "homepage": "https://github.com/slashhuang/webpack-assets-manifest-plugin#readme"
+}
