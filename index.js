@@ -1,7 +1,7 @@
 /**
  * Created by slashhuang on 16/9/20.
  * modify webpack manifest
- * innspired by  ===>
+ * inspired by  ===>
  * https://github.com/webdeveric/webpack-assets-manifest/blob/master/src/webpack-assets-manifest.js
  */
 'use strict';
