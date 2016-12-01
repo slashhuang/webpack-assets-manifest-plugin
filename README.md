@@ -7,9 +7,14 @@
 ## 基于如下项目二次开发
 [webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest/blob/master/src/webpack-assets-manifest.js)
 
+## 安装
+```javascript
+    npm install webpack-assets-manifest-plugin
+```
+
 ## 使用 example code
 ``` javascript
-    var ManifestPlugin = require('webpack-assets-manifest');
+    var ManifestPlugin = require('webpack-assets-manifest-plugin');
     # in webpack config file, add the following plugin config to plugins property
     # 抽取CSS和JS文件
       plugins: [
